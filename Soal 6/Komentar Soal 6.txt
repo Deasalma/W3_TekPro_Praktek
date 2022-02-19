@@ -1,0 +1,13 @@
+		    Soal 6
+		  Big Integer 
+1. Lesson Learn 
+   Memahami penggunaan Big integer dengan mengimport java.math
+   Big Integer digunakan untuk operasi matematika yang melibatkan perhitungan 
+   bilangan bulat yang sangat besar yang berada di luar batas semua tipe data primitif yang tersedia.
+2. Permasalahan yang harus diselesaikan 
+   Menjumlahkan dan mengalikan bilangan besar. Angka-angka ini sangat besar sehingga Anda tidak 
+   dapat memuatnya dalam tipe data biasa seperti bilangan bulat panjang.
+3. Cara Menyelesaikan Program 
+   Menggunakan kelas BigInteger Java karena kelas BigIntegerJava dapat menampung nilai numerik
+   yang tidak dapat ditampung oleh data primitif
+

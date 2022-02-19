@@ -1,0 +1,12 @@
+		     Soal 1
+		Input dan Output
+1. Lesson Learn 
+   Pengunaan trim yang digunakan untuk menghapus spasi 
+   diawal dan diakhir, serta penggunaan split yang digunakan
+   untuk memecah string(kalimat) menjadi kata sesuai dengan pemisah yang diinginkan
+2. Permasalahan yang harus diselesaikan
+   Memisahkan String yang diinputkan menjadi kata sesuai dengan pemisah yang diinginkan
+3. Cara menyelesaikan program
+   Menggunakan fungsi trim dan split yang diimport pada java.util.Scanner
+ 
+   

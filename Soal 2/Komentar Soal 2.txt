@@ -1,0 +1,12 @@
+		    Soal 2
+		Input dan Output(1)
+1. Lesson Learn 
+   Penggunaan Sytem.out.printf yang memformat output sesuai format yang dibutuhkan
+2. Masalah yang harus diselesaikan 
+   - Menambahkan spasi setelah kata yang diinputkan agar semua kata yang diinputkan 
+     ketika dicetak jumlah digitnya menjadi 15 
+   - Menambahkan angka 0 didepan angka ketika angka yang diinputkan kurang dari 3 digit
+3. Cara Menyelesaikan program 
+   Menggunakan System.out.printf untuk memformat output,
+   syntaxnya System.out.printf %(default(spasi), apa yang akan menambah jika digit kurang)(digit yang akan ditampilkan)(format type data)
+   Jika sesudah tanda % ditambahkan akan menambahkan setelah kata yang diinputkan, jika tidak ada akan menambahkan sebelum kata yang diinputkan 

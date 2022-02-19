@@ -1,0 +1,9 @@
+   		     Soal 4
+		   Gaji Agen 
+1. Lesson Learn 
+   Penggunaan pengkondisian dengan if else, dan Penggunaan beberapa operasi aritmatika dalam satu perintah
+2. Permasalahan yang diselesaikan 
+   Menghitung gaji yang didapat oleh Agen sesuai dengan penjualan yang dilakukan
+3. Cara menyelesaikan program
+   Menggunaan pengkondisian if else dan menggabungkan beberapa operasi aritmatika dalam satu perintah 
+   untuk menghitung gaji yang akan didapat 

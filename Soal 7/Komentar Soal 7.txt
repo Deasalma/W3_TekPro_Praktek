@@ -1,0 +1,13 @@
+		       Soal 7
+		Multi-Dimensional Array 
+1. Lesson Learn
+   - Cara praktis isi dari array multi dimensi yaitu menggunakan fungsi Arrays.deepTostring
+   - Cara manualnya bisa dilakukan dengan nested loop
+   - Jika Array dua dimensi maka perulangan dalam nested loop ada dua
+   - Jika Array tiga dimensi maka perulangan dalam nested loop ada tiga
+2. Permasalahan yang harus diselesaikan 
+   Menampilkan Array  Multi dimensi
+3. Cara Menyelesaikan Program
+   Menampilkan Array multi-dimensi ada dua cara, yaitu:
+   - Cara Praktis dengan menggunakan fungsi Arrays.deepTostring
+   - Cara Manual dilakukan dengan nested loop

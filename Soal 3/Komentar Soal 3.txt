@@ -1,0 +1,7 @@
+		    Soal 3
+		  Berhitung
+1. Lesson Learn
+   Mengetahui penggunaan switch case pada java 
+2. Permasalahan yang harus diselesaikan 
+   Membuat input dapat diselesaikan dengan operator aritmatika
+3. Penggunaan switch case berdasarkan operasi yang diinputkan

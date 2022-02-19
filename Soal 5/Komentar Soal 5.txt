@@ -1,0 +1,11 @@
+		     Soal 5
+		Buka Tutup Jalan
+1. Lesson Learn 
+   - Mengetahui penggunaan fungsi replace.All
+   - Mengetahui casting dari string ke long menggunakan fungsi parseLong 
+2. Permasalahan yang harus diselesaikan 
+   Harus mencari tahu apakah gabungan plat nomor dari 4 kendaraan harus berhenti atau jalan
+3. Cara Menyelesaikan Program 
+   1) Meminta input dari user yang disimpan dalam tipe data String.
+   2) Menghapus spasi diantara plat satu dengan plat lainnya
+   3) Mengkonversi tipe data String ke long agar bisa dilakukan operasi aritmatika
